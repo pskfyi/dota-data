@@ -1,0 +1,14 @@
+{
+  "name": "dota-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pskfyi",
+  "license": "MIT",
+  "volta": {
+    "node": "16.13.0",
+    "yarn": "1.22.17"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
