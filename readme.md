@@ -23,5 +23,4 @@ The official Dota 2 CDN used to provide square-ish portrait images for all heroe
 
 ## Acknowledgements
 - Hero data is from [Stratz](https://docs.stratz.com/index.html)
-- https://wiki.teamfortress.com/wiki/WebAPI#Dota_2
-- https://dev.dota2.com/forum/dota-2/spectating/replays/webapi/60177-things-you-should-know-before-starting?t=58317
+- [Official Dota 2 API info](https://dev.dota2.com/forum/dota-2/spectating/replays/webapi/60177-things-you-should-know-before-starting)
